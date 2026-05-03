@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(27, 24, 24);
+  color: white;
+}
+
+html,
+body {
+  border: 0;
+}
+
+node[name='Directory'] {
+  color: rgb(121, 121, 255);
+}
