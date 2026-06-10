@@ -12,9 +12,9 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.10.10",
-    "@bablr/helpers": "0.25.5",
-    "@bablr/record": "0.1.0",
+    "@bablr/agast-helpers": "0.11.4",
+    "@bablr/helpers": "0.26.5",
+    "@bablr/record": "1.0.0",
     "@iter-tools/imm-stack": "1.2.0",
     "classnames": "2.5.1"
   },
